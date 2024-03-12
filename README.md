@@ -1,6 +1,6 @@
  👋 Hi, I’m Kolya! 🇪🇦 🇺🇦
 ---------------------
-I’m currently a web developer student, I’m learning java, html, css, sql and git.  
+I’m currently a web developer student, I’m learning java, html, css, sql and git.🖥️
 
 
 
